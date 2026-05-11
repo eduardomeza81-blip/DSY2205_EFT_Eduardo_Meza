@@ -1,0 +1,26 @@
+#  Oracle Wallet (NUNCA subir credenciales)
+Wallet_A8QYE6TA3DEUCH8T/
+
+#  Spring Boot / Java
+**/target/
+*.jar
+
+#  IDEs
+**/.settings/
+**/.classpath
+**/.project
+**/.idea/
+**/.vscode/
+
+#  Angular / Node
+**/node_modules/
+**/dist/
+**/.angular/
+**/coverage/
+
+#  Logs
+*.log
+
+#  Documentos (opcional)
+*.pdf
+*.docx
